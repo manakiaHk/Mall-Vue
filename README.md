@@ -1,6 +1,6 @@
 # vue_mall
 
-> A Vue.js project
+> A Vue.js SPA project 
 
 ## Build Setup
 
