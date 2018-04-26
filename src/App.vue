@@ -21,7 +21,7 @@
     </div>
     <div class="app-footer">
       <div class="w">
-        <p>© 2017 fishenal MIT</p>
+        <p>© 2017 manakiaHk MIT</p>
       </div>
     </div>
   </div>
