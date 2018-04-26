@@ -1,4 +1,4 @@
-# vue_mall_demo
+# vue_mall
 
 > A Vue.js project
 
